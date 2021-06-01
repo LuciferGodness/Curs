@@ -1,0 +1,11 @@
+main.obj
+menu.obj
+msgchecker.obj
+msgsender.obj
+shop.obj
+moc_countwidget.obj
+moc_form.obj
+moc_menu.obj
+moc_msgchecker.obj
+moc_msgsender.obj
+moc_shop.obj

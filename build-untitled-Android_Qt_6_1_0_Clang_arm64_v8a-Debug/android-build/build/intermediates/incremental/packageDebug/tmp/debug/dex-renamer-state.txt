@@ -1,0 +1,7 @@
+#Mon May 31 20:14:07 MSK 2021
+base.0=C\:\\Users\\Acer\\Desktop\\cursach\\curs\\build-untitled-Android_Qt_6_1_0_Clang_arm64_v8a-Debug\\android-build\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\Acer\\Desktop\\cursach\\curs\\build-untitled-Android_Qt_6_1_0_Clang_arm64_v8a-Debug\\android-build\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
